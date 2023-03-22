@@ -16,3 +16,5 @@ Step 3: Run "***./performance.sh***" command.
 Step 4: Open "***performance.log***" to see Temperatures, RAM usage, CPU utilization and Disk usage.
 
 Step 5: Press "***CTRL C***" in terminal to stop performance.sh running.
+
+- Note: You might need to give permission to execute "***chmod +x performance.sh***". you might need to enter this command to every file.
