@@ -11,10 +11,12 @@ Step 1: Clone this Repo.
 
 Step 2: Go to the Performance-Log project Directory.
 
+- Note: You might need to give permission to execute. Use "***chmod +x performance.sh***". you might need to enter this command for every file.
+- Note: Install moreutils by running command "***sudo apt install moreutils***". 
+
 Step 3: Run "***./performance.sh***" command.
 
 Step 4: Open "***performance.log***" to see Temperatures, RAM usage, CPU utilization and Disk usage.
 
 Step 5: Press "***CTRL C***" in terminal to stop performance.sh running.
 
-- Note: You might need to give permission to execute. Use "***chmod +x performance.sh***". you might need to enter this command for every file.
