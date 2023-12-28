@@ -20,8 +20,9 @@ def process(pid):
         Details['Error'] = "Smart Contract deployment not yet started..."
 
 pid = int(Truffle_PID)
+
 if pid == 0:
-    Details['Error'] = "Truffle not found..."
+    Details['Error'] = "pid not found..."
 else:
     process(pid)
     
